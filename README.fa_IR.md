@@ -40,8 +40,8 @@ TL Agent در حال حاضر از Kilo Code به‌عنوان موتور ایج
 | --- | --- |
 | **[TL Agent](https://github.com/pouramin/TL-Agent)** | محیط مستقل و لوکال برای ایجنت کدنویسی — بدون نیاز به IDE |
 | **[Wireguard-VPN-server-client-setup](https://github.com/pouramin/Wireguard-VPN-server-client-setup)** | ابزار و مستندات راه‌اندازی سرور و کلاینت WireGuard |
-| **[Vless-Cloudflare](https://github.com/pouramin/Vless-Cloudflare)** | پروژه شبکه و تونلینگ بر پایه VLESS و Cloudflare |
-| **[Trojan-VPN](https://github.com/pouramin/Trojan-VPN)** | پروژه راه‌اندازی Trojan VPN |
+| **[free-ClaudeCode](https://github.com/pouramin/free-ClaudeCode)** | آموزش و منابع استفاده از Claude Code و Codex با گزینه‌های رایگان مسیریابی مدل |
+| **[Hedioum-Pool-Tunnel](https://github.com/pouramin/Hedioum-Pool-Tunnel)** | راهنمای تونل بین دو سرور با Hedioum Pool Tunnel |
 
 ## متن‌باز و بومی‌سازی
 
