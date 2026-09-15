@@ -8,6 +8,8 @@
 [![TL Agent](https://img.shields.io/badge/Project-TL%20Agent-2F81F7?style=flat-square&logo=github&logoColor=white)](https://github.com/pouramin/TL-Agent)
 [![Docs](https://img.shields.io/badge/Docs-TL%20Agent-238636?style=flat-square&logo=readthedocs&logoColor=white)](https://pouramin.github.io/TL-Agent/)
 
+[English](./README.md) | [فارسی](./README.fa_IR.md)
+
 </div>
 
 ---
@@ -42,16 +44,6 @@ TL Agent currently uses Kilo Code as its underlying agent engine, while the prod
 ## Open source & localization
 
 I also contribute documentation and localization work to open-source projects, including **Persian documentation for [OpenCode](https://github.com/anomalyco/opencode)**.
-
-<details>
-<summary><strong>فارسی</strong></summary>
-
-<div dir="rtl">
-
-روی ابزارهای متن‌باز هوش مصنوعی، ایجنت‌های کدنویسی، زیرساخت و اتوماسیون کار می‌کنم. بخشی از کارم هم مستندسازی و در دسترس‌تر کردن پروژه‌های متن‌باز برای کاربران فارسی‌زبان است.
-
-</div>
-</details>
 
 ## TunnelLab
 
