@@ -38,8 +38,8 @@ TL Agent currently uses Kilo Code as its underlying agent engine, while the prod
 | --- | --- |
 | **[TL Agent](https://github.com/pouramin/TL-Agent)** | Standalone local coding-agent workspace — no IDE required |
 | **[Wireguard-VPN-server-client-setup](https://github.com/pouramin/Wireguard-VPN-server-client-setup)** | WireGuard server/client setup tooling and documentation |
-| **[Vless-Cloudflare](https://github.com/pouramin/Vless-Cloudflare)** | Networking / tunneling project built around VLESS and Cloudflare |
-| **[Trojan-VPN](https://github.com/pouramin/Trojan-VPN)** | Trojan VPN setup project |
+| **[free-ClaudeCode](https://github.com/pouramin/free-ClaudeCode)** | Tutorial and resources for using Claude Code and Codex with free model-routing options |
+| **[Hedioum-Pool-Tunnel](https://github.com/pouramin/Hedioum-Pool-Tunnel)** | Two-server tunneling guide using Hedioum Pool Tunnel |
 
 ## Open source & localization
 
